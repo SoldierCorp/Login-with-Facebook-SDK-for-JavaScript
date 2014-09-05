@@ -6,3 +6,13 @@ body {
 h1 {
 	margin-bottom: 30px;
 }
+strong, img {
+	display: block;
+}
+img {
+	margin: 0 auto;
+	border-radius: 10px;
+}
+#logout {
+	margin-top: 10px;
+}
